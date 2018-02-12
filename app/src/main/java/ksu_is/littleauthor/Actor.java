@@ -1,11 +1,12 @@
 package main.java.ksu_is.littleauthor;
+import java.awt.Image;
 import javax.swing.text.Position;
 
 /**
  * Created by nora on 2/10/2018 AD.
  */
 
-public class Actor extends Image {
+public class Actor extends Image1 {
 
     //________________________________________________________
 
